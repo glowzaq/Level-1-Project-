@@ -168,16 +168,19 @@
     flex-direction: column;
     margin: 0 20px;
     gap: 20px;
+    align-items: center;
     }
     .cs3body {
     flex-direction: column;
     margin: 0 20px;
     gap: 20px;
+    align-items: center;
     }
     .cs2body {
     flex-direction: column;
     margin: 0 20px;
     gap: 20px;
+    align-items: center;
     }
     .footer1 {
         flex-direction: column;
@@ -186,6 +189,7 @@
     flex-direction: column;
     margin: 0 20px;
     gap: 20px;
+    align-items: center;
     }
     .card {
     width: 100%;   
